@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lysiu</title>
+    <title>Test1</title>
     <link>https://marijus001.github.io/</link>
-    <description>Recent content on Lysiu</description>
+    <description>Recent content on Test1</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 18 Dec 2023 18:50:38 +0200</lastBuildDate>
     <atom:link href="https://marijus001.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mainpage</title>
+      <title>Almost Chess: A Chaotic Take on the Classic Game</title>
       <link>https://marijus001.github.io/posts/mainpage/</link>
-      <pubDate>Mon, 18 Dec 2023 18:50:38 +0200</pubDate>
+      <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://marijus001.github.io/posts/mainpage/</guid>
-      <description>Non-cherry-picked random batch by just typing two words &amp;ldquo;forest elf&amp;rdquo;,
-without any parameter tweaking, without any strange prompt tags.
-See also non-cherry-picked generalization and diversity tests here and here and here.
-In the entire open source community, only Fooocus can achieve this level of non-cherry-picked quality.</description>
+      <description>A React Native chess game that throws memorized openings out the window</description>
     </item>
   </channel>
 </rss>
