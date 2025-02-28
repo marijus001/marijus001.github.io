@@ -2,17 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://marijus001.github.io/posts/mainpage/</loc>
-    <lastmod>2025-12-18T18:50:38+02:00</lastmod>
+    <loc>https://lysiu.com/posts/hurdlehunt/</loc>
+    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://marijus001.github.io/posts/</loc>
-    <lastmod>2025-12-18T18:50:38+02:00</lastmod>
+    <loc>https://lysiu.com/posts/almostchess/</loc>
+    <lastmod>2025-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://marijus001.github.io/</loc>
-    <lastmod>2025-12-18T18:50:38+02:00</lastmod>
+    <loc>https://lysiu.com/posts/</loc>
+    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://marijus001.github.io/categories/</loc>
+    <loc>https://lysiu.com/</loc>
+    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://marijus001.github.io/tags/</loc>
+    <loc>https://lysiu.com/categories/</loc>
+  </url><url>
+    <loc>https://lysiu.com/tags/</loc>
   </url>
 </urlset>
